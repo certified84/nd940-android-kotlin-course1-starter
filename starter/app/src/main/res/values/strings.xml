@@ -1,3 +1,42 @@
 <resources>
-    <string name="app_name">ShoeStore</string>
+    <string name="app_name">Shoez</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hi_there">Hi there, </string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="login">Login</string>
+    <string name="your_account_to_continue">your account to continue</string>
+    <string name="email">Email*</string>
+    <string name="required">*required</string>
+    <string name="password">Password*</string>
+    <string name="don_t_have_an_account">Don\'t have an account? </string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">"forgot password? "</string>
+    <string name="next">Next</string>
+    <string name="welcome_text">Your one stop store for everything fancy, classy or trendy shoes. Here at "Shoez", serving your feet with the best quality material it deserves is our topmost priority. Click the button below to find out more.</string>
+    <string name="welcome_title">Welcome to "Shoez"</string>
+    <string name="how_to_use">How to use</string>
+    <string name="follow_the_steps_below_to_easily_navigate_through_the_app">Follow the steps below to easily navigate through the app:</string>
+    <string name="after_a_successful_login_you_are_directed_to_the_welcome_screen">After a successful login, you are directed to the welcome screen</string>
+    <string name="clicking_the_next_button_in_the_welcome_screen_brings_you_to_this_screen">Clicking the next button in the welcome screen, brings you to this screen</string>
+    <string name="clicking_the_next_button_here_navigates_you_to_the_shoe_listing_screen">Clicking the next button here navigates you to the shoe listing screen</string>
+    <string name="in_the_shoe_listing_screen_clicking_the_floating_action_button_pop_s_up_a_dialog_in_which_you_can_create_a_new_shoe">In the shoe listing screen, clicking the floating action button pop\'s up a dialog in which you can create a new shoe</string>
+    <string name="clicking_a_shoe_in_the_listing_screen_takes_you_to_a_screen_with_the_shoe_details">Clicking a shoe in the listing screen takes you to a screen with the shoe details</string>
+    <string name="add_button">Add shoe button</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="shoe_name">Shoe name</string>
+    <string name="company">Company</string>
+    <string name="shoe_size">Shoe size</string>
+    <string name="description">Description</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="edit_shoe">Edit Shoe</string>
+    <string name="add_shoe">Add Shoe</string>
 </resources>
